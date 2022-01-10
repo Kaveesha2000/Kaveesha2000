@@ -37,13 +37,13 @@ Here are some ideas to get you started:
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="git" width="40" height="40"/> </a>
 
-<br><p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=KaveeshaSanduni&show_icons=true&theme=gotham" alt="KaveeshaSanduni | Stats" />
+<br><p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Kaveesha2000&show_icons=true&theme=gotham" alt="Kaveesha2000 | Stats" />
   
-[comment]: <> (<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaveeshaSanduni&langs_count=5&theme=gotham" alt="KaveeshaSanduni | My GitHub Language Stats" />)
+[comment]: <> (<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaveesha2000&langs_count=5&theme=gotham" alt="Kaveesha2000 | My GitHub Language Stats" />)
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaveeshaSanduni&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaveesha2000&theme=monokai)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KaveeshaSanduni&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kaveesha2000&theme=monokai)
 
-[![](https://github-readme-streak-stats.herokuapp.com?user=KaveeshaSanduni&theme=soft-green)](https://git.io/streak-stats)
+[![](https://github-readme-streak-stats.herokuapp.com?user=Kaveesha2000&theme=soft-green)](https://git.io/streak-stats)
