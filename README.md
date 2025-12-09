@@ -3,7 +3,7 @@
 ---
 
 ### 🌱 About Me
-- I’m currently a **Technical Instructor** and **Technical Business Analyst**  
+- I’m currently an **Associate Software Engineer** and **Technical Instructor** and **Technical Business Analyst**
 - Graduated with **BSc in Computer Science (First Class Honours)**  
 - Completed an **internship at Epic Lanka Technologies**  
 - 👯 I’m looking to collaborate on **software engineering, UI/UX design, or business analysis projects**  
