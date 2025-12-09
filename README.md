@@ -1,15 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Kaveesha+Sanduni+Kodikara;Associate+Software+Engineer+%F0%9F%91%8B%2C+Arpico+Insurance+PLC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Kaveesha+Sanduni+Kodikara;Technical+Instructor+%F0%9F%91%8B%2C+Technical+Business+Analyst)](https://git.io/typing-svg)
 
 ---
 
 ### 🌱 About Me
-- I’m currently an **Associate Software Engineer at Arpico Insurance PLC**  
+- I’m currently a **Technical Instructor** and **Technical Business Analyst**  
 - Graduated with **BSc in Computer Science (First Class Honours)**  
 - Completed an **internship at Epic Lanka Technologies**  
-- 👯 I’m looking to collaborate on **software engineering or UI/UX design projects**  
-- 🤔 I’m looking for help with **advanced programming and system design**  
-- 💬 Ask me about **Java, Python, MySQL, UI/UX design, or Linux**  
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/kaveesha-sanduni-358561201)** | **[Twitter](https://twitter.com/kaveeshasandun1)**  
+- 👯 I’m looking to collaborate on **software engineering, UI/UX design, or business analysis projects**  
+- 🤔 I’m looking for help with **advanced programming, system design, or business solutions**  
+- 💬 Ask me about **Java, Python, MySQL, Oracle, Angular, UI/UX design, or Linux**  
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/kaveesha-sanduni-358561201)** | **[X](https://x.com/58Sanduni)**  
 - 😄 Pronouns: **she/her/hers**  
 - ⚡ Fun fact: I love to leave my phone unanswered and then text to know why they had called 😅  
 
@@ -19,6 +19,8 @@
 <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://www.oracle.com/database/" target="_blank"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="40" height="40"/></a>
+<a href="https://angular.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://hibernate.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
@@ -46,7 +48,7 @@
 
 ### 🤝 Connect with Me
 <p align="left">
-  <a href="https://twitter.com/kaveeshasandun1"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/></a>
+  <a href="https://x.com/58Sanduni"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X (Twitter)" height="30" width="40"/></a>
   <a href="https://www.linkedin.com/in/kaveesha-sanduni-358561201" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
 </p>
 
