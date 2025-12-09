@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Kaveesha+Sanduni+Kodikara;Technical+Instructor+%F0%9F%91%8B%2C+Technical+Business+Analyst)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Kaveesha+Sanduni+Kodikara;Associate+Software+Engineer+%F0%9F%91%8B%2C+Arpico+Insurance+PLC)](https://git.io/typing-svg) 
 
 ---
 
