@@ -11,7 +11,7 @@
 - 👯 Open to collaborating on **software engineering, UI/UX design, business analysis, or blogging projects**
 - 🤔 Looking for guidance in **advanced programming, system design, or business solutions**
 - 💬 Ask me about **Java, Python, Go, MySQL, Oracle, Angular, UI/UX, Windows environment**
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/kaveesha-sanduni-358561201) | [X](https://x.com/58Sanduni) | ✉️ **kaveesha@example.com**
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/kaveesha-sanduni-358561201) | [X](https://x.com/58Sanduni) | ✉️ **kaveeshasanduni200066@gmail.com**
 - 😄 Pronouns: **she/her/hers**
 - ⚡ Fun fact: I love leaving my phone unanswered just to text later asking why they called 😅
 
@@ -34,38 +34,18 @@
 
 ## 🚀 Projects
 
-### Enterprise & Real-Time Projects
-**PayTect – Card Management System** (July 2023 – July 2025)  
-Developed a comprehensive card management solution for banking clients, focusing on scalability, security, and high availability.  
-**Clients:** DFCC, DF, UNION BANK  
-**Technologies:** Oracle, Spring Boot, Java 11, MySQL, React  
-
-**PayTect – API Platform** (Nov 2023 – July 2025)  
-Built a secure third-party API platform to enhance card management system integrations and improve system security.  
-**Clients:** DFCC, DF, UNION BANK  
-**Technologies:** Spring Boot, MongoDB  
-
-**Kasi Wasi – Loyalty Point Redeemable System** (July 2025 – Nov 2025)  
-Developed a customer loyalty platform enabling point accumulation and redemption across multiple partner merchants.  
-**Clients:** Partner Merchants  
-**Technologies:** Spring Boot, React, Oracle  
-
-**E-Statement for Credit Cards** (March 2025 – July 2025)  
-Implemented a comprehensive e-statement system for credit card activities, improving transparency and customer accessibility.  
-**Clients:** DFCC, UNION BANK  
-**Technologies:** Spring Boot, MySQL, HTML, CSS, JavaScript, Thymeleaf  
-
-**Quotation System – Life Insurance** (Nov 2025 – Present)  
-Developed a life insurance quotation system supporting proposal creation and premium calculations. Built backend business logic and service layers using Spring Boot and Hibernate, implemented Angular-based dynamic forms with validations, and integrated REST APIs for seamless data flow between frontend and backend.  
-**Clients:** Life Insurance Domain  
-**Technologies:** Spring Boot, Hibernate, Angular, MySQL  
-
-### Other Notable Projects
-- **Task Manager API** – Go, MySQL | Backend API for managing tasks and projects efficiently  
-- **Inventory Management System** – Java, MySQL, Hibernate | Full-stack application to manage products and stock levels  
-- **Portfolio Website** – HTML, CSS, JS, Figma | Personal portfolio website with responsive design  
-- **UI/UX Redesign** – Figma | Redesigned app interfaces for better user experience  
-- **Business Analysis Dashboard** – Python, MySQL | Analytical dashboard for reporting and visualization  
+| Project | Duration | Description | Clients | Technologies |
+|---------|---------|-------------|---------|--------------|
+| PayTect – Card Management System | Jul 2023 – Jul 2025 | Comprehensive card management solution focusing on scalability, security, and high availability | DFCC, DF, UNION BANK | Oracle, Spring Boot, Java 11, MySQL, React |
+| PayTect – API Platform | Nov 2023 – Jul 2025 | Secure third-party API platform to enhance integrations and system security | DFCC, DF, UNION BANK | Spring Boot, MongoDB |
+| Kasi Wasi – Loyalty Point Redeemable System | Jul 2025 – Nov 2025 | Customer loyalty platform enabling point accumulation and redemption across multiple partner merchants | Partner Merchants | Spring Boot, React, Oracle |
+| E-Statement for Credit Cards | Mar 2025 – Jul 2025 | Comprehensive e-statement system improving transparency and customer accessibility | DFCC, UNION BANK | Spring Boot, MySQL, HTML, CSS, JavaScript, Thymeleaf |
+| Quotation System – Life Insurance | Nov 2025 – Present | Life insurance quotation system supporting proposal creation, premium calculation, and dynamic forms | Life Insurance Domain | Spring Boot, Hibernate, Angular, MySQL |
+| Task Manager API | - | Backend API for managing tasks and projects efficiently | Personal/Training | Go, MySQL |
+| Inventory Management System | - | Full-stack application to manage products and stock levels | Personal/Training | Java, MySQL, Hibernate |
+| Portfolio Website | - | Personal portfolio website with responsive design | Personal | HTML, CSS, JS, Figma |
+| UI/UX Redesign | - | Redesigned app interfaces for better user experience | Personal/Training | Figma |
+| Business Analysis Dashboard | - | Analytical dashboard for reporting and visualization | Personal/Training | Python, MySQL |
 
 ---
 
@@ -83,13 +63,15 @@ Developed a life insurance quotation system supporting proposal creation and pre
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Education
 - 🏅 First Class Honours in BSc Computer Science  
+- 📜 Diploma in **Psychology**  
+- 📜 Diploma in **Human Resource Management (HRM)**  
 - 🏆 Completed internship at Epic Lanka Technologies  
 - 🌟 Recognized for outstanding UI/UX project designs  
-- 📜 Certified in Advanced Java & Python Programming  
 - ✍️ Published multiple **technical blogs** and motivational articles  
 - 🎤 Delivered **motivational talks** for youth and tech communities  
+- 📜 Certified in Advanced Java & Python Programming  
 
 ---
 
@@ -106,7 +88,7 @@ Developed a life insurance quotation system supporting proposal creation and pre
 <p align="left">
   <a href="https://x.com/58Sanduni"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40"/></a>
   <a href="https://www.linkedin.com/in/kaveesha-sanduni-358561201"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
-  <a href="mailto:kaveesha@example.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Email" height="30" width="40"/></a>
+  <span>✉️ kaveeshasanduni200066@gmail.com</span>
 </p>
 
 ---
