@@ -2,20 +2,20 @@
 
 ---
 
-### 🌱 About Me
-- 💼 Currently an **Associate Software Engineer**, **Technical Instructor**, & **Technical Business Analyst**
+## 🌱 About Me
+- 💼 **Associate Software Engineer**, **Technical Instructor**, & **Technical Business Analyst**
 - 🎓 **BSc in Computer Science (First Class Honours)**
 - 💻 Internship: **Epic Lanka Technologies**
 - 👯 Open to collaborating on **software engineering, UI/UX design, or business analysis projects**
-- 🤔 Looking for help with **advanced programming, system design, or business solutions**
-- 💬 Ask me about **Java, Python, MySQL, Oracle, Angular, UI/UX design, or Linux**
+- 🤔 Looking for guidance in **advanced programming, system design, or business solutions**
+- 💬 Ask me about **Java, Python, MySQL, Oracle, Angular, UI/UX, Linux**
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/kaveesha-sanduni-358561201) | [X](https://x.com/58Sanduni)
 - 😄 Pronouns: **she/her/hers**
 - ⚡ Fun fact: I love leaving my phone unanswered just to text later asking why they called 😅
 
 ---
 
-### 💻 Skills & Tools
+## 💻 Skills & Tools
 <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
@@ -32,9 +32,19 @@
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Projects
+| Project | Tech Stack | Description |
+|---------|-----------|-------------|
+| Inventory Management System | Java, MySQL, Hibernate | Full-stack application to manage products and stock levels |
+| Portfolio Website | HTML, CSS, JS, Figma | Personal portfolio website with responsive design |
+| UI/UX Redesign | Adobe XD, Figma | Redesigned app interfaces for better user experience |
+| Business Analysis Dashboard | Python, MySQL | Analytical dashboard for reporting and visualization |
+
+---
+
+## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaveesha2000&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaveesha2000&show_icons=true&theme=tokyonight&count_private=true" alt="Kaveesha2000 GitHub Stats" />
 </p>
 
 <p align="left">
@@ -42,11 +52,27 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kaveesha2000&theme=dracula" />
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kaveesha2000&theme=react)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kaveesha2000&theme=react)](https://git.io/streak-stats)
 
 ---
 
-### 🤝 Connect with Me
+## 🏆 Achievements
+- 🏅 First Class Honours in BSc Computer Science
+- 🏆 Completed internship at Epic Lanka Technologies
+- 🌟 Recognized for outstanding UI/UX project designs
+- 📜 Certified in Advanced Java & Python Programming
+
+---
+
+## 📚 Currently Learning
+- System Design & Architecture
+- Cloud Technologies (AWS & Azure)
+- Advanced Angular & Frontend Frameworks
+- Business Process Optimization
+
+---
+
+## 🤝 Connect with Me
 <p align="left">
   <a href="https://x.com/58Sanduni"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40"/></a>
   <a href="https://www.linkedin.com/in/kaveesha-sanduni-358561201"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
@@ -54,8 +80,8 @@
 
 ---
 
-### 🏷️ Badges
-<img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=f88379"> 
-<img src="https://badges.pufler.dev/visits/Kaveesha2000/Kaveesha2000"> 
-<img src="https://badges.pufler.dev/years/Kaveesha2000">
+## 🏷️ Badges
+<img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=f88379" /> 
+<img src="https://badges.pufler.dev/visits/Kaveesha2000/Kaveesha2000" /> 
+<img src="https://badges.pufler.dev/years/Kaveesha2000" />
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Kaveesha2000&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></p>
