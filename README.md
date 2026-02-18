@@ -51,15 +51,15 @@
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaveesha2000&show_icons=true&theme=radical&count_private=true" alt="Kaveesha GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaveesha2000&show_icons=true&theme=tokyonight&count_private=true" alt="Kaveesha2000 GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaveesha2000&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kaveesha2000&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaveesha2000&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kaveesha2000&theme=dracula" />
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kaveesha2000&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kaveesha2000&theme=react)](https://git.io/streak-stats)
 
 ---
 
