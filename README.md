@@ -6,10 +6,12 @@
 - 💼 **Associate Software Engineer**, **Technical Instructor**, & **Technical Business Analyst**
 - 🎓 **BSc in Computer Science (First Class Honours)**
 - 💻 Internship: **Epic Lanka Technologies**
-- 👯 Open to collaborating on **software engineering, UI/UX design, or business analysis projects**
+- 👩‍💻 Blogger: Writing **technical blogs & motivational content**
+- 🎤 Motivational Speaker: Sharing **insights on personal & professional growth**
+- 👯 Open to collaborating on **software engineering, UI/UX design, business analysis, or blogging projects**
 - 🤔 Looking for guidance in **advanced programming, system design, or business solutions**
-- 💬 Ask me about **Java, Python, MySQL, Oracle, Angular, UI/UX, Linux**
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/kaveesha-sanduni-358561201) | [X](https://x.com/58Sanduni)
+- 💬 Ask me about **Java, Python, Go, MySQL, Oracle, Angular, UI/UX, Windows environment**
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/kaveesha-sanduni-358561201) | [X](https://x.com/58Sanduni) | ✉️ **kaveesha@example.com**
 - 😄 Pronouns: **she/her/hers**
 - ⚡ Fun fact: I love leaving my phone unanswered just to text later asking why they called 😅
 
@@ -18,24 +20,52 @@
 ## 💻 Skills & Tools
 <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://golang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 <a href="https://www.oracle.com/database/" target="_blank"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="40" height="40"/></a>
 <a href="https://angular.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://hibernate.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
+<img src="https://img.icons8.com/fluency/48/000000/windows-10.png" alt="windows" width="40" height="40"/>
 
 ---
 
 ## 🚀 Projects
-| Project | Tech Stack | Description |
-|---------|-----------|-------------|
-| Inventory Management System | Java, MySQL, Hibernate | Full-stack application to manage products and stock levels |
-| Portfolio Website | HTML, CSS, JS, Figma | Personal portfolio website with responsive design |
-| UI/UX Redesign | Figma | Redesigned app interfaces for better user experience |
-| Business Analysis Dashboard | Python, MySQL | Analytical dashboard for reporting and visualization |
+
+### Enterprise & Real-Time Projects
+**PayTect – Card Management System** (July 2023 – July 2025)  
+Developed a comprehensive card management solution for banking clients, focusing on scalability, security, and high availability.  
+**Clients:** DFCC, DF, UNION BANK  
+**Technologies:** Oracle, Spring Boot, Java 11, MySQL, React  
+
+**PayTect – API Platform** (Nov 2023 – July 2025)  
+Built a secure third-party API platform to enhance card management system integrations and improve system security.  
+**Clients:** DFCC, DF, UNION BANK  
+**Technologies:** Spring Boot, MongoDB  
+
+**Kasi Wasi – Loyalty Point Redeemable System** (July 2025 – Nov 2025)  
+Developed a customer loyalty platform enabling point accumulation and redemption across multiple partner merchants.  
+**Clients:** Partner Merchants  
+**Technologies:** Spring Boot, React, Oracle  
+
+**E-Statement for Credit Cards** (March 2025 – July 2025)  
+Implemented a comprehensive e-statement system for credit card activities, improving transparency and customer accessibility.  
+**Clients:** DFCC, UNION BANK  
+**Technologies:** Spring Boot, MySQL, HTML, CSS, JavaScript, Thymeleaf  
+
+**Quotation System – Life Insurance** (Nov 2025 – Present)  
+Developed a life insurance quotation system supporting proposal creation and premium calculations. Built backend business logic and service layers using Spring Boot and Hibernate, implemented Angular-based dynamic forms with validations, and integrated REST APIs for seamless data flow between frontend and backend.  
+**Clients:** Life Insurance Domain  
+**Technologies:** Spring Boot, Hibernate, Angular, MySQL  
+
+### Other Notable Projects
+- **Task Manager API** – Go, MySQL | Backend API for managing tasks and projects efficiently  
+- **Inventory Management System** – Java, MySQL, Hibernate | Full-stack application to manage products and stock levels  
+- **Portfolio Website** – HTML, CSS, JS, Figma | Personal portfolio website with responsive design  
+- **UI/UX Redesign** – Figma | Redesigned app interfaces for better user experience  
+- **Business Analysis Dashboard** – Python, MySQL | Analytical dashboard for reporting and visualization  
 
 ---
 
@@ -54,18 +84,21 @@
 ---
 
 ## 🏆 Achievements
-- 🏅 First Class Honours in BSc Computer Science
-- 🏆 Completed internship at Epic Lanka Technologies
-- 🌟 Recognized for outstanding UI/UX project designs
-- 📜 Certified in Advanced Java & Python Programming
+- 🏅 First Class Honours in BSc Computer Science  
+- 🏆 Completed internship at Epic Lanka Technologies  
+- 🌟 Recognized for outstanding UI/UX project designs  
+- 📜 Certified in Advanced Java & Python Programming  
+- ✍️ Published multiple **technical blogs** and motivational articles  
+- 🎤 Delivered **motivational talks** for youth and tech communities  
 
 ---
 
 ## 📚 Currently Learning
-- System Design & Architecture
-- Cloud Technologies (AWS & Azure)
-- Advanced Angular & Frontend Frameworks
-- Business Process Optimization
+- System Design & Architecture  
+- Cloud Technologies (AWS & Azure)  
+- Advanced Angular & Frontend Frameworks  
+- Business Process Optimization  
+- Writing advanced **technical blogs** and content creation  
 
 ---
 
@@ -73,6 +106,7 @@
 <p align="left">
   <a href="https://x.com/58Sanduni"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40"/></a>
   <a href="https://www.linkedin.com/in/kaveesha-sanduni-358561201"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
+  <a href="mailto:kaveesha@example.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Email" height="30" width="40"/></a>
 </p>
 
 ---
