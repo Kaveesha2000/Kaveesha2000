@@ -1,17 +1,17 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Kaveesha+Sanduni+Kodikara;Associate+Software+Engineer+%F0%9F%91%8B%2C+Arpico+Insurance+PLC)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B,+I'm+Kaveesha+Sanduni+Kodikara;Associate+Software+Engineer+%F0%9F%91%8B,+Arpico+Insurance+PLC)](https://git.io/typing-svg)
 
 ---
 
 ### 🌱 About Me
-- I’m currently an **Associate Software Engineer** and **Technical Instructor** and **Technical Business Analyst**
-- Graduated with **BSc in Computer Science (First Class Honours)**  
-- Completed an **internship at Epic Lanka Technologies**  
-- 👯 I’m looking to collaborate on **software engineering, UI/UX design, or business analysis projects**  
-- 🤔 I’m looking for help with **advanced programming, system design, or business solutions**  
-- 💬 Ask me about **Java, Python, MySQL, Oracle, Angular, UI/UX design, or Linux**  
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/kaveesha-sanduni-358561201)** | **[X](https://x.com/58Sanduni)**  
-- 😄 Pronouns: **she/her/hers**  
-- ⚡ Fun fact: I love to leave my phone unanswered and then text to know why they had called 😅  
+- 💼 Currently an **Associate Software Engineer**, **Technical Instructor**, & **Technical Business Analyst**
+- 🎓 **BSc in Computer Science (First Class Honours)**
+- 💻 Internship: **Epic Lanka Technologies**
+- 👯 Open to collaborating on **software engineering, UI/UX design, or business analysis projects**
+- 🤔 Looking for help with **advanced programming, system design, or business solutions**
+- 💬 Ask me about **Java, Python, MySQL, Oracle, Angular, UI/UX design, or Linux**
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/kaveesha-sanduni-358561201) | [X](https://x.com/58Sanduni)
+- 😄 Pronouns: **she/her/hers**
+- ⚡ Fun fact: I love leaving my phone unanswered just to text later asking why they called 😅
 
 ---
 
@@ -34,28 +34,28 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaveesha2000&show_icons=true&theme=gotham" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaveesha2000&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaveesha2000&theme=monokai" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kaveesha2000&theme=monokai" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaveesha2000&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kaveesha2000&theme=dracula" />
 </p>
 
-[![](https://github-readme-streak-stats.herokuapp.com?user=Kaveesha2000&theme=soft-green)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kaveesha2000&theme=react)](https://git.io/streak-stats)
 
 ---
 
 ### 🤝 Connect with Me
 <p align="left">
-  <a href="https://x.com/58Sanduni"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X (Twitter)" height="30" width="40"/></a>
-  <a href="https://www.linkedin.com/in/kaveesha-sanduni-358561201" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
+  <a href="https://x.com/58Sanduni"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40"/></a>
+  <a href="https://www.linkedin.com/in/kaveesha-sanduni-358561201"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
 </p>
 
 ---
 
 ### 🏷️ Badges
-<img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379"> 
-<img src="https://badges.pufler.dev/visits/M4cs/M4cs"> 
-<img src="https://badges.pufler.dev/years/M4cs">
-<p align="left"><img src="https://komarev.com/ghpvc/?username=KaveeshaSanduni&label=Profile%20views&color=0e75b6&style=flat" alt="KaveeshaSanduni" /></p>
+<img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=f88379"> 
+<img src="https://badges.pufler.dev/visits/Kaveesha2000/Kaveesha2000"> 
+<img src="https://badges.pufler.dev/years/Kaveesha2000">
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Kaveesha2000&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></p>
