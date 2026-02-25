@@ -64,14 +64,14 @@
 ---
 
 ## 🏆 Achievements & Education
-- 🏅 First Class Honours in BSc Computer Science  
+- 🏅 **First Class Honours** in **BSc Computer Science**  
 - 📜 Diploma in **Psychology**  
 - 📜 Diploma in **Human Resource Management (HRM)**  
-- 🏆 Completed internship at Epic Lanka Technologies  
+- 🏆 Completed internship at **Epic Lanka Technologies**  
 - 🌟 Recognized for outstanding UI/UX project designs  
-- ✍️ Published multiple **technical blogs** and motivational articles  
+- ✍️ Published multiple **technical blogs** and **motivational articles**  
 - 🎤 Delivered **motivational talks** for youth and tech communities  
-- 📜 Certified in Advanced Java & Python Programming  
+- 📜 Certified in *Advanced Java*  
 
 ---
 
